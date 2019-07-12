@@ -27,3 +27,5 @@ cf push
 
 #Python runtime in IBM-Cloud:
 https://devcenter.heroku.com/articles/python-runtimes
+
+*Code for parkinson_detector.py was modified from the original one you can find here https://www.pyimagesearch.com/2019/04/29/detecting-parkinsons-disease-with-opencv-computer-vision-and-the-spiral-wave-test/

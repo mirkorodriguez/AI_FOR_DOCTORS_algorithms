@@ -1,12 +1,12 @@
 # Credits: Adrian Rosebrock (https://www.pyimagesearch.com)
 # https://www.pyimagesearch.com/2019/04/29/detecting-parkinsons-disease-with-opencv-computer-vision-and-the-spiral-wave-test/
 
- # conda create -n parkinson pip python=3.6
- # source activate parkinson
- # pip install -U setuptools
- # pip install -U pip
- # pip install opencv-contrib-python # see the tutorial linked above
- # pip install scikit-learn scikit-image imutils joblib
+# conda create -n parkinson pip python=3.6
+# source activate parkinson
+# pip install -U setuptools
+# pip install -U pip
+# pip install opencv-contrib-python # see the tutorial linked above
+# pip install scikit-learn scikit-image imutils joblib
 
 # USAGE
 # python parkinson_detector.py --modelname spiral
