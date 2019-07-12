@@ -23,7 +23,7 @@ cf login
 cf push
 ```
 
-*WebApp should be lauches on IBM Cloud on a url with this pattern https://parkinson-xxxx-xxxx.mybluemix.net
+*WebApp should be launched on IBM Cloud. The url will have this pattern: https://parkinson-xxxx-xxxx.mybluemix.net
 
 #Python runtime in IBM-Cloud:
 https://devcenter.heroku.com/articles/python-runtimes
